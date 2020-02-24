@@ -1,4 +1,4 @@
-# Reddit Text Classification using Bernoulli Naive Bayes (from Scratch)
+# Reddit Text Classification using Bernoulli Naive Bayes
 
 In this mini-project you will develop models to analyze text from the website Reddit (https://www.reddit. com/), a popular social media forum where users post and comment on content in different themed commu- nities, or subreddits. The goal of this project is to develop a supervised classification model that can predict what community a comment came from.
 
